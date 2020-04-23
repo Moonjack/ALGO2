@@ -8,7 +8,8 @@ public class WordCount {
 	{
 		BufferedReader r = new BufferedReader(new InputStreamReader(System.in));
 		String line; 
-		
+		// Comment from Eclipse :-)
+		System.out.println("Test from eclipse");
         Elem head = null;
 		while((line = r.readLine())!=null)
 		{
